@@ -15,7 +15,7 @@
 - 🛠️ **Pratik Beceriler:** Bilgisayar donanım montajı, sistem arıza tespiti ve mekanik tamirat
 
 **EN:**
-- 🎓 **Education:** Kocaeli Health and Technology University - Electrical & Energy Department
+- 🎓 **Education:** Kocaeli Health and Technology University - Electric Department
 - 🐧 **System & Kernel:** Arch Linux enthusiast, Linux System Administration & terminal lover
 - 📱 **Mobile Dev:** Deeply passionate about building modern cross-platform mobile apps using Flutter & Dart
 - ⚡ **Interests:** Low-level C programming, system architectures, and Cybersecurity
